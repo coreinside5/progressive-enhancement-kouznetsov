@@ -1,10 +1,10 @@
 @import "reset.css";
 .good{
-    color: whitesmoke;
+    color: rgb(245, 245, 245);
     background-color: rgb(6, 247, 247);    
 }
 .bad{
-    color: black;
+    color: rgb(0, 0, 0);
     background-color: rgb(247, 10, 10);
 }
 h1,h2,h3,h4,h5,h6 {
