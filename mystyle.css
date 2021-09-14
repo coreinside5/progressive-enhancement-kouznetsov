@@ -1,5 +1,6 @@
-@import "reset.css"
-.good {
+@import "reset.css";
+
+.good{
     color: whitesmoke;
     background-color: cyan;
     
